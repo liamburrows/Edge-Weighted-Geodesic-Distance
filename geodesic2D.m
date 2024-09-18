@@ -1,5 +1,7 @@
 function gd = geodesic2D(image)
 
+image = im2double(image);
+
 
 [n,m] = size(image);
 
