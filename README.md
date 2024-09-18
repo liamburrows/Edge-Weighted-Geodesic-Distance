@@ -4,7 +4,7 @@ First compile the mex files by running 'compile_mex.m'
 
 Then geodesic distance can be calculated on a 2D or 3D (greyscale) image by running geodesic2D(image) or geodesic3D(image) respectively. 
 
-Edge weighted geodesic distance was first defined in [1] for selective segmentation, and has since been used in a number of works including [1,
+Edge weighted geodesic distance was first defined in [1] for selective segmentation, and has since been used in a number of works including [1,3,4,5,6]
 
 
 [1] Roberts, Michael, Ke Chen, and Klaus L. Irion. "A convex geodesic selective model for image segmentation." Journal of Mathematical Imaging and Vision 61.4 (2019): 482-503.
